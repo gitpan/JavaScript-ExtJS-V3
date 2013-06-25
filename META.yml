@@ -1,0 +1,21 @@
+---
+abstract: 'Perl distribution for ExtJS 3.x sources'
+author:
+  - 'Henry Van Styn <vanstyn@cpan.org>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+  File::ShareDir::Install: 0.03
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: JavaScript-ExtJS-V3
+requires:
+  File::ShareDir: 0
+  Path::Class: 0
+resources:
+  repository: https://github.com/vanstyn/JavaScript-ExtJS-V3.git
+version: 3.4.1
